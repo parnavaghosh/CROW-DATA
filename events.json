@@ -1,15 +1,7 @@
 [
   {
-    "title": "CanSat Prototype Test",
-    "date": "2025-08-20",
-    "description": "Hands-on session building the CanSat prototype.",
-    "image": "images/cansat.jpg"
-  },
-  {
-    "title": "Astro Photo",
-    "date": "2025-09-01",
-    "description": "Cool night-sky capture.",
-    "image": "https://raw.githubusercontent.com/<username>/crow-data/main/images/night.jpg"
+    "title": "CROW Weekly Update",
+    "date": "2025-08-10",
+    "description": "We completed initial satellite simulation tests successfully!"
   }
 ]
-
