@@ -1,1 +1,15 @@
+[
+    {
+        "title": "CROW Research Meetup",
+        "date": "2025-08-15",
+        "description": "A collaborative research session focusing on computational science and interdisciplinary studies.",
+        "image": "https://raw.githubusercontent.com/parnavaghosh/CROW-DATA/1997c5c6d5074ee1020a749566c84309b96f80b7/event.png"
+    },
+    {
+        "title": "AI in Public Policy Workshop",
+        "date": "2025-09-02",
+        "description": "Exploring how AI and computational modeling can shape effective public policy decisions.",
+        "image": "https://raw.githubusercontent.com/parnavaghosh/CROW-DATA/1997c5c6d5074ee1020a749566c84309b96f80b7/event.png"
+    }
+]
 
